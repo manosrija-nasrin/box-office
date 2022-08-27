@@ -8,8 +8,8 @@ import Starred from './pages/Starred';
 
 const theme = {
   mainColors: {
-    blue: '#2400ff',
-    gray: '#c6c6c6',
+    blue: '#02d4f0',
+    gray: '#7a7979',
     dark: '#353535',
   },
 };
