@@ -1,3 +1,10 @@
+# Check it Out!
+The website is up and running at: https://manosrija-nasrin.github.io/box-office/#/
+You can also use and install it as a Progreassive Web App! Isn't that cool? 
+
+## Status: Currently shelved. 
+Some new functionalities would be added soon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
