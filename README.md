@@ -1,6 +1,5 @@
 # Check it Out!
-The website is up and running at: https://manosrija-nasrin.github.io/box-office/#/
-You can also use and install it as a Progreassive Web App! Isn't that cool? 
+The website is up and running. You can also use and install it as a Progressive Web App! Isn't that cool? 
 
 ## Status: Currently shelved. 
 Some new functionalities would be added soon.
