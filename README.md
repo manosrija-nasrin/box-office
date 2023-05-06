@@ -27,7 +27,7 @@ To try out visit [link](https://manosrija-nasrin.github.io/box-office/#/)
   <h3>Testing</h3>
 
 ```sh
-git clone https://github.com/awesomeDev12/box-office.git
+git clone https://github.com/manosrija-nasrin/box-office.git
 cd box-office
 npm install
 npm start
