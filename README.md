@@ -1,76 +1,36 @@
-# Check it Out!
-The website is up and running. You can also use and install it as a Progressive Web App! Isn't that cool? 
+<h1 align="center"> Box Office </h1>
 
-## Status: Currently shelved. 
-Some new functionalities would be added soon.
+<p align="center">
+  <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
+    <img alt="License: AGPLv3" src="https://shields.io/badge/License-AGPL%20v3-blue.svg">
+  </a>
+  <a href="https://github.com/manosrija-nasrin/box-office/commits/master">
+    <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/y/manosrija-nasrin/box-office?color=red&label=commits">
+  </a>
+  <a href="https://github.com/manosrija-nasrin/box-office/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/manosrija-nasrin/box-office?color=important">
+  </a>
+  <a href="https://github.com/manosrija-nasrin/box-office/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/manosrija-nasrin/box-office?color=blueviolet">
+  </a>
+  <a href="https://github.com/manosrija-nasrin/box-office/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/manosrija-nasrin/box-office?style=social">
+  </a>
+</p>
 
-# Getting Started with Create React App
+To try out visit [link](https://manosrija-nasrin.github.io/box-office/#/)
+<p>
+  <h3>Screenshots</h3>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  <h3>Testing</h3>
 
-## Available Scripts
+```sh
+git clone https://github.com/awesomeDev12/box-office.git
+cd box-office
+npm install
+npm start
+```
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</p>
